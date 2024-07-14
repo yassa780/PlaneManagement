@@ -36,6 +36,7 @@ public class PlaneManagement {
             System.out.println("\t5) Print tickets information and total sales");
             System.out.println("\t6) Search tickets");
             System.out.println("\t0) Quit");
+            system.out.println("\t1) Exit");
 
             for (int k = 0; k < 51; k++) {
                 System.out.print("*");
